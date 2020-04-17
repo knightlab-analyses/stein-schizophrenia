@@ -3,5 +3,5 @@
 This repository includes all the code to generate the figures used in the (Nguyen, Kosciolek et al. 2020)
 
 ## data
-EBI Accession: `coming soon`
-Qiita study: `coming soon`
+EBI Accession: `coming soon`  
+Qiita study: https://qiita.ucsd.edu/study/description/11710 (prep `SZ2`)
